@@ -1,13 +1,8 @@
 # qr-prison
-
-# CONVERTED SCRIPT
-https://github.com/SagginChairLLC/qbr-prison
-https://github.com/qbcore-framework/qb-prison
-
-# Converted by MortimerSays#8065 and NastyNikolai#1763
-
 # Framework QRCore RedM Edition
 - https://github.com/QRCore-RedM-Re
+
+# Converted by MortimerSays#8065 and NastyNikolai#1763
 
 # Dependancies
 - qr-core
@@ -23,3 +18,7 @@ https://github.com/qbcore-framework/qb-prison
 
 # Starting the resource
 - add the following to your server.cfg file : ensure qr-prison
+
+# Converted Script
+- https://github.com/SagginChairLLC/qbr-prison
+- https://github.com/qbcore-framework/qb-prison
