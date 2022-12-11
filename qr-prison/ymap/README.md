@@ -1,0 +1,1 @@
+Add this file to your [mapmods]\redm-ymaps\stream folder :)

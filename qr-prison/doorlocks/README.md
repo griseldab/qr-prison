@@ -1,0 +1,1 @@
+Replace this config file with the one that is currently in rsg-doorlock :)
